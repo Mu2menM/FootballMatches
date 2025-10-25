@@ -1,0 +1,12 @@
+# Xcode
+DerivedData/
+build/
+*.xcworkspace
+xcuserdata/
+*.moved-aside
+*.ipa
+*.xcuserstate
+
+# Swift package manager
+/.build
+/Packages
